@@ -139,5 +139,5 @@ export const pages: pagesNS = {
     workflowRequestsPage: {
         subTitle: "View and manage workflow requests.",
         title: "Workflow Requests"
-    },
+    }
 };
